@@ -4,20 +4,22 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 23, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Brandon Tirado)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project was setup to introduce us to the jquery framework and to the benefits to its librarys. )
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Jquery has cross-browser librarys so that whatever browser youre using the script will be able to excute.)
+2. (Using '$' at the beggining of a statement tells the browser that a jquery framework is being used and the script
+    associated with the library will be able to excute.)
+3. (The jquery DOM can be troubleshooted and or maniuplated in developer tools by navigating to consel and clicking on the 
+    circle with the line through it.)
 
