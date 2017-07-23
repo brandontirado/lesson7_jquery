@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This project was setup to introduce us to the jquery framework and to the benefits to its librarys. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://brandontirado.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
 1. (Jquery has cross-browser librarys so that whatever browser youre using the script will be able to excute.)
